@@ -2,7 +2,7 @@
 
 Create an OCR model which can recognise handwritten digits based on the MNIST dataset, completely from scratch (no external libraries, other than basic math from numpy).
 
-# notes.pdf
+# mnist_notes.pdf
 
 This is a document written by me, covering the mathematical theory behind everything used in this project (for my own understanding).
 
